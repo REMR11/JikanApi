@@ -1,0 +1,14 @@
+D:\CsharpUFG\PracticasApi\JikanApi\bin\Debug\net8.0\JikanApi.exe
+D:\CsharpUFG\PracticasApi\JikanApi\bin\Debug\net8.0\JikanApi.deps.json
+D:\CsharpUFG\PracticasApi\JikanApi\bin\Debug\net8.0\JikanApi.runtimeconfig.json
+D:\CsharpUFG\PracticasApi\JikanApi\bin\Debug\net8.0\JikanApi.dll
+D:\CsharpUFG\PracticasApi\JikanApi\bin\Debug\net8.0\JikanApi.pdb
+D:\CsharpUFG\PracticasApi\JikanApi\obj\Debug\net8.0\JikanApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpUFG\PracticasApi\JikanApi\obj\Debug\net8.0\JikanApi.AssemblyInfoInputs.cache
+D:\CsharpUFG\PracticasApi\JikanApi\obj\Debug\net8.0\JikanApi.AssemblyInfo.cs
+D:\CsharpUFG\PracticasApi\JikanApi\obj\Debug\net8.0\JikanApi.csproj.CoreCompileInputs.cache
+D:\CsharpUFG\PracticasApi\JikanApi\obj\Debug\net8.0\JikanApi.dll
+D:\CsharpUFG\PracticasApi\JikanApi\obj\Debug\net8.0\refint\JikanApi.dll
+D:\CsharpUFG\PracticasApi\JikanApi\obj\Debug\net8.0\JikanApi.pdb
+D:\CsharpUFG\PracticasApi\JikanApi\obj\Debug\net8.0\JikanApi.genruntimeconfig.cache
+D:\CsharpUFG\PracticasApi\JikanApi\obj\Debug\net8.0\ref\JikanApi.dll
